@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "declaration": true,
+    "moduleResolution": "node",
+    "noEmitOnError": true,
+    "removeComments": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "ignoreDeprecations": "5.0",
+    "skipLibCheck": true,
+    "allowSyntheticDefaultImports": true,
+    "module": "commonjs",
+    "strict": true,
+    "target": "esnext",
+    "noEmitHelpers": true,
+    "importHelpers": true
+  }
+}
